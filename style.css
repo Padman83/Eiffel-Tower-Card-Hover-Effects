@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
 
 .bg {
-    background-color: rgb(1, 29, 122);
-    background-color: linear-gradient(90deg, rgba(0,35,149,1) 0%, rgba(255,227,182,1) 0%, rgba(255,213,213,1) 100%);
+    background-color: #1488CC;  /* fallback for old browsers */
+    background-color: -webkit-linear-gradient(to right, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
+    background-color: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .card {
