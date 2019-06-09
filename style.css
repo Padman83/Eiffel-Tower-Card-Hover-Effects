@@ -24,7 +24,7 @@
     height: 10%;
     position: absolute;
     box-sizing: border-box;
-    transition: .5s;
+    transition: .3s;
 }
 
 .card .image {
