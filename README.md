@@ -1,18 +1,11 @@
-## Eiffel Tower Card Hover Effects.
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/97600627-35582700-1a44-11eb-98f5-5054781bfea9.gif)
 
 ### 🧰 System Requirements
 
-* Mac , Linux or Windows.
-
-### Code Editor
-
+* Cross-Platform.
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Design Tool
-
-* [Adobe XD] (https://www.adobe.com)
-
-### Built With
+### 🛠️ Built with:
 
 * [Materialize] (https://materializecss.com)
 * [jQuery] (https://https://jquery.com)
